@@ -1,0 +1,3 @@
+br\com\projeto\backend\cadastrocliente\controller\ClienteController.class
+br\com\projeto\backend\cadastrocliente\model\Cliente.class
+br\com\projeto\backend\cadastrocliente\CadastroclienteApplication.class
